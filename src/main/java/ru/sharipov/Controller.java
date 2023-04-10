@@ -1,9 +1,8 @@
 package ru.sharipov;
 
 import java.util.Scanner;
-
 public class Controller {
-    public static void main(String[] args) {
+    public Controller() {
         Scanner scanner = new Scanner(System.in);
         WorkerCompanyData workerCompanyData = new WorkerCompanyData();
         Worker worker1 = new Worker(
