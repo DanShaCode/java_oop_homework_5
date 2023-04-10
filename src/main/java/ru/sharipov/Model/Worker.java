@@ -1,4 +1,4 @@
-package ru.sharipov;
+package ru.sharipov.Model;
 
 import lombok.Data;
 

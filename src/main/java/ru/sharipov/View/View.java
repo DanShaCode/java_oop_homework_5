@@ -1,4 +1,6 @@
-package ru.sharipov;
+package ru.sharipov.View;
+
+import ru.sharipov.Model.Worker;
 
 import java.util.List;
 import java.util.Scanner;

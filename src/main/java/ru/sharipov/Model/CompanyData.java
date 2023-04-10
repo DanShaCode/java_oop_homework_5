@@ -1,5 +1,7 @@
-package ru.sharipov;
+package ru.sharipov.Model;
 
+
+import ru.sharipov.Model.Worker;
 
 public interface CompanyData {
     void add(Worker worker);

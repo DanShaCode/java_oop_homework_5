@@ -1,4 +1,8 @@
-package ru.sharipov;
+package ru.sharipov.Control;
+
+import ru.sharipov.View.View;
+import ru.sharipov.Model.Worker;
+import ru.sharipov.Model.WorkerCompanyData;
 
 import java.util.Scanner;
 public class Controller {
